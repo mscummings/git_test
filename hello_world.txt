@@ -1,1 +1,2 @@
 New text for hello world
+testing new commit method
